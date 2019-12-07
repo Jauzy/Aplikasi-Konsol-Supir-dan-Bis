@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1556106249 source:e:\projek - projek\c++\tubes std\baru\implement.cpp
+	"abstract.h"
+
+1555592036 e:\projek - projek\c++\tubes std\baru\abstract.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<cstring>
+
+1554910702 source:e:\projek - projek\c++\tubes std\baru\main.cpp
+	"abstract.h"
+
